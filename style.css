@@ -56,11 +56,7 @@ header div p {
 
     margin-top: 20px;
     font-size: 1.5rem;
-    background-color: rgb(203, 197, 197);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    
-    
+    color: rgb(255, 255, 255);
 }
 
 main section {
@@ -126,4 +122,17 @@ main section div article h2{
     font-size: 2rem;
     font-weight: 400;
     color: #fafafa;
+}
+
+.light-theme {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+ .light-theme p{
+    color: black;
+ }
+button{
+   position: relative;
+   left: 590px;
+   width: 100px;
 }
