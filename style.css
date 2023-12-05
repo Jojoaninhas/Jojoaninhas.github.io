@@ -136,3 +136,14 @@ button{
    left: 590px;
    width: 100px;
 }
+
+#galeria {
+    font-size: 20px;
+    background-color: red;
+    border-radius: 3%;
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    color: white;
+    margin-top: 20px;
+}
